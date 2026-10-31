@@ -1,0 +1,23 @@
+[
+  {
+    "n": 5,
+    "so_cach": 7,
+    "so_nut": 19,
+    "do_sau": 5,
+    "so_phan_tu_ket_qua": 20
+  },
+  {
+    "n": 10,
+    "so_cach": 42,
+    "so_nut": 139,
+    "do_sau": 10,
+    "so_phan_tu_ket_qua": 192
+  },
+  {
+    "n": 20,
+    "so_cach": 627,
+    "so_nut": 2714,
+    "do_sau": 20,
+    "so_phan_tu_ket_qua": 4630
+  }
+]

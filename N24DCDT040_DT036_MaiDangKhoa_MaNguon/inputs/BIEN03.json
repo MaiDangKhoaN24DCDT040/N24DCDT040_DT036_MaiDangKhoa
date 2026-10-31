@@ -1,0 +1,18 @@
+{
+  "id": "BIEN03",
+  "goal": "Biên độ dài nghiệm: k=n",
+  "op": "main",
+  "n": 6,
+  "k": 6,
+  "count": 1,
+  "expected": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ]
+}
