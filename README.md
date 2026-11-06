@@ -54,4 +54,4 @@ SHA C: `0ec3fa8d89df9adcd17640819d49aae32ffb37c2`.
 
 Website sử dụng HTML, CSS và JavaScript, gồm `index.html`, `style.css` và `script.js` tại thư mục gốc. Mở đường dẫn trên trình duyệt để nhập dữ liệu và xem kết quả minh họa. Chương trình Python và cách chạy kiểm thử được giữ như hướng dẫn ở trên.
 
-SHA C xác định mã Python đã kiểm thử; SHA S của bộ hồ sơ cuối được ghi trong `ThongTinNop.txt` nộp rời sau khi chốt GitHub và kiểm tra bản clone sạch.
+
