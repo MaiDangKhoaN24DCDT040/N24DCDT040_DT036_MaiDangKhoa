@@ -47,3 +47,11 @@ SHA C: `0ec3fa8d89df9adcd17640819d49aae32ffb37c2`.
 
 - Thuật toán: https://github.com/MaiDangKhoaN24DCDT040/N24DCDT040_DT036_MaiDangKhoa/blob/0ec3fa8d89df9adcd17640819d49aae32ffb37c2/src/phan_tich.py
 - Kiểm thử: https://github.com/MaiDangKhoaN24DCDT040/N24DCDT040_DT036_MaiDangKhoa/blob/0ec3fa8d89df9adcd17640819d49aae32ffb37c2/test/run_tests.py
+
+## Website minh họa trực tuyến
+
+[ Mở website minh họa ](https://n24dcdt040-dt036-maidangkhoa.onrender.com/)
+
+Website sử dụng HTML, CSS và JavaScript, gồm `index.html`, `style.css` và `script.js` tại thư mục gốc. Mở đường dẫn trên trình duyệt để nhập dữ liệu và xem kết quả minh họa. Chương trình Python và cách chạy kiểm thử được giữ như hướng dẫn ở trên.
+
+SHA C xác định mã Python đã kiểm thử; SHA S của bộ hồ sơ cuối được ghi trong `ThongTinNop.txt` nộp rời sau khi chốt GitHub và kiểm tra bản clone sạch.
