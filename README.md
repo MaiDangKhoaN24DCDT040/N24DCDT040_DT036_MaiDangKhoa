@@ -52,6 +52,6 @@ SHA C: `0ec3fa8d89df9adcd17640819d49aae32ffb37c2`.
 
 [ Mở website minh họa ](https://n24dcdt040-dt036-maidangkhoa.onrender.com/)
 
-Website sử dụng HTML, CSS và JavaScript, gồm `index.html`, `style.css` và `script.js` tại thư mục gốc. Mở đường dẫn trên trình duyệt để nhập dữ liệu và xem kết quả minh họa. Chương trình Python và cách chạy kiểm thử được giữ như hướng dẫn ở trên.
+Website sử dụng HTML, CSS và JavaScript, gồm `index.html`, `style.css` và `script.js` tại thư mục gốc. Mở đường dẫn trên trình duyệt để nhập dữ liệu và xem kết quả minh họa. 
 
 
